@@ -1,4 +1,4 @@
-package com.example.licsalexrevro.ui.theme
+package com.example.m777.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

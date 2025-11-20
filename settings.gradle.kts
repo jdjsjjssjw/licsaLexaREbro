@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "licsaLExREvro"
+rootProject.name = "M777"
 include(":app")
  

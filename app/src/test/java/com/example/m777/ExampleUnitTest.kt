@@ -1,4 +1,4 @@
-package com.example.licsalexrevro
+package com.example.m777
 
 import org.junit.Test
 

@@ -5,12 +5,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.licsalexrevro"
+    namespace = "com.example.m777"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.licsalexrevro"
-        minSdk = 34
+        applicationId = "com.example.m777"
+        minSdk = 30
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"

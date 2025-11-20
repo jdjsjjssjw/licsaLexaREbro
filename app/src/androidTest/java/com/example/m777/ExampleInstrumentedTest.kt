@@ -1,4 +1,4 @@
-package com.example.licsalexrevro
+package com.example.m777
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.licsalexrevro", appContext.packageName)
+        assertEquals("com.example.m777", appContext.packageName)
     }
 }
